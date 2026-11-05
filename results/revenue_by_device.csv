@@ -1,0 +1,4 @@
+device_category,users,purchases,revenue_usd,aov_usd,revenue_per_session_usd
+desktop,158917,2749,208815.0,75.96,0.999
+mobile,109195,1995,146768.0,73.57,1.025
+tablet,6250,104,6582.0,63.29,0.823

@@ -1,0 +1,4 @@
+device_category,sessions,view_item,add_to_cart,begin_checkout,purchase,cr_session_to_view,cr_view_to_cart,cr_cart_to_checkout,cr_checkout_to_purchase,cr_total
+desktop,208942,44819,8780,3425,1606,21.45,19.59,39.01,46.89,0.77
+mobile,143185,30501,6072,2404,1180,21.3,19.91,39.59,49.08,0.82
+tablet,8002,1700,321,130,62,21.24,18.88,40.5,47.69,0.77
